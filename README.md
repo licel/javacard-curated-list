@@ -331,7 +331,7 @@ KeYmaera 3: A Hybrid Theorem Prover for Hybrid Systems with examples on JavaCard
 
 ## JavaCard simulators and emulators
 
-- [JCardSim:](https://github.com/licel/jcardsim) _[**mature** : last commit 2017]_ <br>
+- [JCardSim:](https://github.com/licel/jcardsim) _[**mature** : last commit 2018]_ <br>
 Capable JavaCard simulator implemented atop of BouncyCastle. Very good for unit testing, quick prototyping and educational purposes. Allows for multiple simulated cards in parallel.   
 
 - [vJCRE ](https://github.com/martinpaljak/vJCRE) _[last commit 2016]_ <br>
